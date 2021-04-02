@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro",
+      "price": "12567.54"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20 Plus",
+      "price": "5546.89"
+    },
+    {
+      "name": "Play Station 4",
+      "price": "1769.90",
+      "id": 4
+    },
+    {
+      "name": "Mega Drive",
+      "price": "499.90",
+      "id": 5
+    }
+  ]
+}

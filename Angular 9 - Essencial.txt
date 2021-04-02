@@ -1,0 +1,17 @@
+Criando Backend com JSON-SERVER
+
+npm init -y -> Comando para gerar o arquivo package.json
+
+npm i json-server -> Instala o json-server, que será usado para armazenar os dados da aplicação
+
+Instalando o Angular CLI
+
+npm i -g @angular/cli -> instala a interface de linha de comando do Angular
+
+ng new meu-app --minimal -> cria seu primeiro app utilizando o framework, com a estrutura mínima
+
+ng generate component caminho_do_componente/nome_do_componente -> cria um novo componente no caminho informado
+
+ng generate service caminho_do_service/nome_do_service -> cria um novo service no caminho informado
+
+ng generate directive caminho_da_diretiva/nome_da_diretiva -> cria uma nova diretiva no caminho informado
